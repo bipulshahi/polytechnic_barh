@@ -16,7 +16,7 @@ This playlist is designed to help learners understand the fundamentals and advan
 ## 🔔 Subscribe for More Content
 If you find the content helpful, don't forget to **subscribe** to our channel for more AI & ML tutorials!
 
-🔗 **Subscribe Here**: [YouTube Channel(https://www.youtube.com/@ai-council?sub_confirmation=1)
+🔗 **Subscribe Here**: [YouTube Channel] (https://www.youtube.com/@ai-council?sub_confirmation=1)
 
 ## 💡 Stay Connected
 🌐 Visit our website: (https://www.aicouncil.in)  
